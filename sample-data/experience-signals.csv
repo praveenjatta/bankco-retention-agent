@@ -1,0 +1,6 @@
+cust_id,complaints_90d,disputes_90d,benefit_denials_90d,nps_last
+CUST001,0,1,0,-5
+CUST002,2,0,0,-25
+CUST003,1,1,2,-15
+CUST004,0,0,0,45
+CUST005,0,2,0,-8

@@ -1,0 +1,6 @@
+cust_id,total_spend_90d,lounge_visits_90d,redemptions_90d,travel_share_change
+CUST001,3200.00,0,0,-25
+CUST002,8500.00,3,2,5
+CUST003,1800.00,0,0,-40
+CUST004,12000.00,5,4,15
+CUST005,2900.00,1,0,-10

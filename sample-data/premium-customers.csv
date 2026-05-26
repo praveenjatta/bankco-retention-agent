@@ -1,0 +1,6 @@
+cust_id,rm_id,cust_name,tier,tenure_months,annual_fee_due_date,annual_fee_amount
+CUST001,RM001,James Wilson,Platinum,36,2026-06-15,550
+CUST002,RM001,Emily Davis,Signature,24,2026-07-02,695
+CUST003,RM002,Robert Kim,Platinum,48,2026-06-28,550
+CUST004,RM002,Jennifer Lee,Signature,12,2026-08-10,695
+CUST005,RM003,David Brown,Platinum,60,2026-07-15,550

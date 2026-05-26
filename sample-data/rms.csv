@@ -1,0 +1,4 @@
+rm_id,rm_name,rm_email,rm_phone,region
+RM001,Sarah Johnson,sarah.j@bankco.com,555-0101,West
+RM002,Michael Chen,michael.c@bankco.com,555-0102,East
+RM003,Lisa Rodriguez,lisa.r@bankco.com,555-0103,Central
